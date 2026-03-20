@@ -5,7 +5,7 @@
 **Nived-insure** is a smart parametric insurance platform built for gig delivery workers (Swiggy, Zomato, Blinkit, Zepto).  
 It protects weekly income by automatically detecting real-world disruptions like heavy rain, floods, heatwaves, poor air quality, or local restrictions and triggering payouts without manual claim filing.
 
-Nived-insure combines:
+- Nived-insure combines:
 
 - real-time environmental monitoring
 - AI-based risk scoring
@@ -630,6 +630,16 @@ This approach ensures that the system is **accurate, scalable, and aligned with 
 ## Technology Stack
 
 ## ![GigaTrails Tech Stack Diagram](diagrams/gigatrails_tech_stack_inline_svg.svg)
+
+---
+
+## 🎨 UI Wireframe (Interactive Preview)
+
+Explore the full mobile app wireframe designed using Google Stitch:
+
+👉 [View Nived-insure Wireframe](https://stitch.withgoogle.com/preview/14485227369352902844?node-id=efdfc7ffe9c549458896cd14a531869d)
+
+> Includes all core screens: Dashboard, Insurance Plans, Risk Insights, Activity Tracking, Triggers, and Payout System.
 
 ---
 
