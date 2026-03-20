@@ -629,7 +629,7 @@ This approach ensures that the system is **accurate, scalable, and aligned with 
 
 ## Technology Stack
 
-## ![GigaTrails Tech Stack Diagram](diagrams/gigatrails_tech_stack_inline_svg.svg)
+## ![GigaTrails Tech Stack Diagram](diagrams/tech_stack.png)
 
 ---
 
